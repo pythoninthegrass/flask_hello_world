@@ -24,7 +24,7 @@ on:
 
 env:
   # required labels for pull request to be merged
-  MERGE_LABELS: ""
+  MERGE_LABELS: "autorelease: pending"
 
   # count of required approvals
   MERGE_REQUIRED_APPROVALS: 0
