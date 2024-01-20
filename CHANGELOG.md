@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/pythoninthegrass/flask_hello_world/compare/v1.0.0...v1.0.1) (2024-01-20)
+
+
+### Bug Fixes
+
+* switch to copy per hadolint ([f2880cd](https://github.com/pythoninthegrass/flask_hello_world/commit/f2880cdf9a7a4c6a27c2dfb653ee917296834e5b))
+
 ## 1.0.0 (2023-12-24)
 
 
